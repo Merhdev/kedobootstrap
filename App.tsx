@@ -8,7 +8,7 @@ import './style.css';
 export default function App() {
   return (
     <div className="app-wrapper">
-      <h1> Work, work </h1>
+      <h1> Work, work, work </h1>
       <Button variant="primary">Button</Button>
       <Header />
       <Form />
